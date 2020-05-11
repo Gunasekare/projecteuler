@@ -7,5 +7,5 @@ Disclaimer - the solutions are far from perfect.
   
 View my progress [here](https://projecteuler.net/progress=gunasekare)(sign in required).  
   
-![Project Euler Score](http://projecteuler.net/profile/gunasekare.png)
+![Project Euler Score](https://projecteuler.net/profile/gunasekare.png)
 
