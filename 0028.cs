@@ -8,6 +8,7 @@
 //          Diag 3 is A053755 = 4*n^2 + 1
 //          Diag 4 is A054569 = 4*n^2 - 6*n + 3
 
+
 using System;
 
 namespace _0028
