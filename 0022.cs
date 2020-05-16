@@ -13,7 +13,6 @@ namespace _0022
 {
     class Program
     {
-        const int limit = 10000;
         static void Main(string[] args)
         {
             Dictionary<char, int> letterValue = new Dictionary<char, int>();
