@@ -12,11 +12,12 @@ namespace _0048
 {
     class Program
     {
+	const int limit = 1000;
         static void Main(string[] args)
         {
             BigInteger sum = 0;
 
-            for (int i = 1; i <= 1000; ++i)
+            for (int i = 1; i <= limit; ++i)
                 sum += BigInteger.Pow(i, i);
 
             string value = sum.ToString();
